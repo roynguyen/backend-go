@@ -19,7 +19,10 @@ http://localhost:8000
 ```
 http://localhost:8000/eth/0x5dCaA1D8D8132e5bF9CF12DECCFC0CeCF26a780d/balance
 ```
-address : 0x5dCaA1D8D8132e5bF9CF12DECCFC0CeCF26a780d \\
+address : 
+```
+0x5dCaA1D8D8132e5bF9CF12DECCFC0CeCF26a780d 
+```
 response :
 ```
 {
@@ -31,7 +34,10 @@ response :
 ```
 http://localhost:8000/eth/0x5dCaA1D8D8132e5bF9CF12DECCFC0CeCF26a780d/nonce
 ```
-address : 0x5dCaA1D8D8132e5bF9CF12DECCFC0CeCF26a780d \\
+address : 
+```
+0x5dCaA1D8D8132e5bF9CF12DECCFC0CeCF26a780d 
+```
 response :
 ```
 {
