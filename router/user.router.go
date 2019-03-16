@@ -1,7 +1,7 @@
 package router
 
 import (
-	"controller"
+	"github.com/roynguyen/backend-go/controller"
 
 	"github.com/gin-gonic/gin"
 )
