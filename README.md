@@ -1,4 +1,4 @@
-# Build RESTful API in go using gorrila framework
+# Build RESTful API in go using go gin framework
 ### Install: 
 clone source code from github:
 ```
