@@ -1,8 +1,8 @@
 package router
 
 import (
-	"controller"
-	authentication "middleware"
+	"github.com/roynguyen/backend-go/controller"
+	authentication "github.com/roynguyen/backend-go/middleware"
 
 	"github.com/gorilla/mux"
 )
