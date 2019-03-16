@@ -2,9 +2,10 @@ package controller
 
 import (
 	"encoding/json"
-	"model"
 	"net/http"
-	"service"
+
+	"github.com/roynguyen/backend-go/model"
+	"github.com/roynguyen/backend-go/service"
 
 	"github.com/gorilla/mux"
 )

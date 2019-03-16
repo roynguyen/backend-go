@@ -1,8 +1,9 @@
 package service
 
 import (
-	"config"
 	"math/big"
+
+	"github.com/roynguyen/backend-go/config"
 
 	Web3 "github.com/regcostajr/go-web3"
 	Providers "github.com/regcostajr/go-web3/providers"

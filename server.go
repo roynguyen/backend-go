@@ -4,7 +4,8 @@ import (
 	"fmt"
 	"log"
 	"net/http"
-	"router"
+
+	"github.com/roynguyen/backend-go/router"
 )
 
 // main function to boot up everything

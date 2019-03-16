@@ -3,9 +3,10 @@ package middleware
 import (
 	"encoding/json"
 	"fmt"
-	User "model"
 	"net/http"
 	"strings"
+
+	User "github.com/roynguyen/backend-go/model"
 
 	jwt "github.com/dgrijalva/jwt-go"
 	"github.com/gorilla/context"
